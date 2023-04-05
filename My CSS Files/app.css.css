@@ -1,0 +1,20 @@
+h2{
+    color: teal;
+    background-color: rgb(151 , 0, 89);
+}
+
+button{
+    color: magenta;
+    background-color: cyan;
+}
+
+p{
+    color: olive;
+    background: yellow;
+}
+
+body{
+    background: #000;
+}
+
+
